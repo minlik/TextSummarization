@@ -10,7 +10,7 @@
 
 [文本摘要（二）：TextRank](https://zhuanlan.zhihu.com/p/452359234)
 
-[文本摘要（三）：数据处理](https://zhuanlan.zhihu.com/p/452359234)
+[文本摘要（三）：数据处理](https://zhuanlan.zhihu.com/p/452429994)
 
 [文本摘要（四）：seq2seq 介绍及实现](https://zhuanlan.zhihu.com/p/452475603)
 
